@@ -5,7 +5,7 @@
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvName": "Benjamin_Benny_Resume.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I also build iOS applications applying good practices and development standards using <span class='underline'>Swift.</span>",
