@@ -5,7 +5,7 @@
     "Header.Item3" : "Projects",
     "Header.Item4" : "Contact",
     "Header.cvBtn" : "Resume",
-    "Header.cvName": "CV_Jose_Hernandez_Ingles.pdf",
+    "Header.cvName": "Benjamin_Benny_Resume.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I also build iOS applications applying good practices and development standards using <span class='underline'>Swift.</span>",
@@ -193,7 +193,7 @@
     ],
     "Contact.Pretitle": "What’s Next",
     "Contact.Title": "Get in touch!",
-    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Content": "Feel free to message me if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
     "Contact.Btn": "Say Hello"
 
 
