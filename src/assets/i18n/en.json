@@ -8,12 +8,12 @@
     "Header.cvName": "Benjamin_Benny_Resume.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I also build iOS applications applying good practices and development standards using <span class='underline'>Swift.</span>",
+    "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and software solutions. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I buid websites applying good practices and development standards. I am adept at navigating and contributing effectively in an <span class='underline'>Agile</span> work environment.",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing sustainable codes for dynamic websites in <span class='underline'>Angular (Typescript)</span> and  <span class='underline'>Springboot (Java)</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together. I have released several <span class='underline'>iOS</span> apps to the App Store.",
+        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing sustainable codes for dynamic websites in <span class='underline'>Angular (Typescript)</span> and  <span class='underline'>Springboot (Java)</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
         "My skills also include implementing system improvements, optimizing sites, and suggesting and executing ideas that add value to the project I'm working on.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
@@ -21,21 +21,22 @@
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [{
-            "Tab": "Project",
-            "Title": "Fullstack developer",
-            "Date": "December 2019 - Present",
+            "Tab": "OrthoFX",
+            "Title": "Software Engineer",
+            "Date": "September 2020 - Feb 2023",
             "Description": [
-              "Creation and maintenance of a monitoring platform with graphics in WordPress.",
-              "Functional programming in templates and plugins to add the necessary monitoring features.",
-              "Implementation of continuous integration and daily backups.",
-              "Creation and maintenance of a second Monitoring Platform Done in Angular, Angular Material, Laravel, Mysql, RxJS, Sass with graphics (configurable), alarm system, and user management and configuration of general parameters.",
-              "Planning meetings in reports."
+                "As a full-stack developer, built responsive applications and RESTful APIs in Java and Angular in Agile enviroment.",
+                "Achieved 15% improvement in clinical report loading time via parallel stream rendering in the backend.",
+                "Oversaw transformation of treatment forms, elevating doctor satisfaction and optimizing patient care process.",
+                "Integrated FXPay using Stripe, achieving 40% boost in customer retention metrics.",
+                "Team player in the shift of OrthoFX from a clinical to a DSO-level business model, resulting in an 8% increase in doctor engagement and a 7% rise in patient sign-ups.",
+                "Directed technical interviews and acquired high-caliber talent to the OrthoFX team."
             ]
         },
         {
             "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "May 2016 - Present",
+            "Title": "Lords FC",
+            "Date": "March 2023 - June 2023",
             "Description": [
               "Implementing continuous improvements, working on frontend and backend.",
               "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
@@ -54,31 +55,6 @@
               "Creation of modules with complex reactive forms",
               "Writing weekly reports about goals and plans."
             ]
-        },
-        {
-            "Tab": "TechLatam",
-            "Title": "Frontend developer",
-            "Date": "February 2016 - May 2017",
-            "Description": [
-              "Creation of WordPress templates with ACF, functional programming in Javascript / jQuery, styles in SASS",
-              "integration of design improvements, and template loading times.",
-              "Effective communication with the design team, working with Avocode / Figma."
-            ]
-        },
-        {
-            "Tab": "CANTV",
-            "Title": "System analyst",
-            "Date": "November 2015 - December 2016",
-            "Description": [
-              "Programming of new functionalities for an existing employee management platform made in Angular and ExpressJS.",
-              "Perform refactoring of old code. Ensuring compatibility of every dependency in every update, along with regular Angular update as well."
-            ]
-        },
-        {
-            "Tab": "IEP",
-            "Title": "English teacher",
-            "Date": "January 2015 - July 2015",
-            "Description": ["Teaching English at a basic level to an enrollment of more than 200 students."]
         }
     ],
 
