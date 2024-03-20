@@ -23,7 +23,7 @@
     "Experience.Jobs": [{
             "Tab": "OrthoFX",
             "Title": "Software Engineer",
-            "Date": "September 2020 - Feb 2023",
+            "Date": "September 2020 - March 2023",
             "Description": [
                 "As a full-stack developer, built responsive applications and RESTful APIs in Java and Angular in Agile enviroment.",
                 "Achieved 15% improvement in clinical report loading time via parallel stream rendering in the backend.",
@@ -36,24 +36,11 @@
         {
             "Tab": "Freelancer",
             "Title": "Lords FC",
-            "Date": "March 2023 - June 2023",
+            "Date": "April 2023 - July 2023",
             "Description": [
-              "Implementing continuous improvements, working on frontend and backend.",
-              "Creating platforms with Angular, Laravel, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-              "Automation of processes with data structures.",
-              "Design layout with SASS, Bootstrap, Materialize, Bulma, etc."
-            ]
-        },
-        {
-            "Tab": "Moebius",
-            "Title": "FullStack developer",
-            "Date": "July 2017 - October 2018",
-            "Description": [
-              "Leading a team of 4 people in the development of a Tourism Data management platform made in Angular, Laravel, and MySQL.",
-              "Implementation CI / CD in Azure. Refactoring and optimizing application load times.",
-              "Coding of API requests with RxJS.",
-              "Creation of modules with complex reactive forms",
-              "Writing weekly reports about goals and plans."
+              "As a web developer and administrator, spearheaded development and upkeep of LordsFC Kochi's dynamic website, utilizing PHP, HTML, and CSS for a responsive design.",
+              "Orchestrated domain acquisition and hosting via GoDaddy, showcasing a comprehensive approach to online presence establishment.",
+              "Merged technical proficiency with firsthand knowledge as a former player, ensuring proactive maintenance and user-centric enhancements for optimal engagement."
             ]
         }
     ],
