@@ -1,0 +1,170 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "Benjamin_Benny_Resume.pdf",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I also build iOS applications applying good practices and development standards using <span class='underline'>Swift.</span>",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing sustainable codes for dynamic websites in <span class='underline'>Angular (Typescript)</span> and  <span class='underline'>Springboot (Java)</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together. I have released several <span class='underline'>iOS</span> apps to the App Store.",
+        "My skills also include implementing system improvements, optimizing sites, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [{
+            "Tab": "OrthoFX",
+            "Title": "Software Engineer",
+            "Date": "September 2020 - March 2023",
+            "Description": [
+                "As a full-stack developer, built responsive applications and RESTful APIs in Java and Angular in Agile enviroment.",
+                "Achieved 15% improvement in clinical report loading time via parallel stream rendering in the backend.",
+                "Oversaw transformation of treatment forms, elevating doctor satisfaction and optimizing patient care process.",
+                "Integrated FXPay using Stripe, achieving 40% boost in customer retention metrics.",
+                "Team player in the shift of OrthoFX from a clinical to a DSO-level business model, resulting in an 8% increase in doctor engagement and a 7% rise in patient sign-ups.",
+                "Directed technical interviews and acquired high-caliber talent to the OrthoFX team."
+            ]
+        },
+        {
+            "Tab": "Freelancer",
+            "Title": "Lords FC",
+            "Date": "April 2023 - July 2023",
+            "Description": [
+              "As a web developer and administrator, spearheaded development and upkeep of LordsFC Kochi's dynamic website, utilizing PHP, HTML, and CSS for a responsive design.",
+              "Orchestrated domain acquisition and hosting via GoDaddy, showcasing a comprehensive approach to online presence establishment.",
+              "Merged technical proficiency with firsthand knowledge as a former player, ensuring proactive maintenance and user-centric enhancements for optimal engagement."
+            ]
+        }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "OrthoFX",
+            "Description": "Monitoring application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "imgs": [
+                "assets/images/orthofx/orthofx1.png",
+                "assets/images/orthofx/orthofx2.png",
+                "assets/images/orthofx/orthofx3.png",
+                "assets/images/orthofx/orthofx4.png",
+                "assets/images/orthofx/orthofx5.png",
+                "assets/images/orthofx/orthofx6.png",
+                "assets/images/orthofx/orthofx7.png"
+            ],
+            "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
+        },
+        {
+            "Title": "FXOntrack",
+            "Description": "Health plan quote that has a search engine with which advanced queries are made. Plans are displayed based on the user's age, monthly income, and location. It has <span class='underline'>online chat</span, <span class='underline'>contact form</span>, <span class='underline'>notification system by whatsapp and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>internet information management through the role of administrator.</span>",
+            "imgs": [
+                "assets/images/fxontrack/fxontrack1.png",
+                "assets/images/fxontrack/fxontrack2.png",
+                "assets/images/fxontrack/fxontrack3.png"
+            ],
+            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa", "Xcode"]
+        },
+        {
+            "Title": "TinDog",
+            "Description": "Data monitoring platform belonging to water wells, tugboats, and various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "imgs": [
+                "assets/images/tindog/tindog1.png",
+                "assets/images/tindog/tindog2.png",
+                "assets/images/tindog/tindog3.png",
+                "assets/images/tindog/tindog4.png",
+                "assets/images/tindog/tindog5.png",
+                "assets/images/tindog/tindog6.png"
+            ],
+            "Technologies": ["Bootstrap", "HTML", "CSS"]
+        },
+        {
+            "Title": "Practice App",
+            "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
+            "imgs": [
+                "assets/images/practiceapp/practiceapp1.png",
+                "assets/images/practiceapp/practiceapp2.png",
+                "assets/images/practiceapp/practiceapp3.png"
+            ],
+            "ghLink": "https://github.com/andresjosehr/hands-game",
+            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa", "Xcode"]
+        },
+        {
+            "Title": "Lords FC",
+            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+            "imgs": [
+                "assets/images/lordsfc/lordsfc1.png",
+                "assets/images/lordsfc/lordsfc2.png",
+                "assets/images/lordsfc/lordsfc3.png",
+                "assets/images/lordsfc/lordsfc4.png",
+                "assets/images/lordsfc/lordsfc5.png",
+                "assets/images/lordsfc/lordsfc6.png",
+                "assets/images/lordsfc/lordsfc7.png",
+                "assets/images/lordsfc/lordsfc8.png"
+            ],
+            "ghLink": "https://github.com/andresjosehr/countries-viewer",
+            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/andresjosehr/pokemon-angular",
+            "demoLink": "https://projects.andresjosehr.com/pokemon-list",
+            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "https://github.com/andresjosehr/coming-soon-page",
+            "demoLink": "https://projects.andresjosehr.com/coming-soon-page",
+            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+            "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "ghLink": "https://github.com/andresjosehr/social-proof-section",
+            "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+            "Technologies": ["Angular", "CSS GRID", "GIT"]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "FAQ accordion with logic and animations made in Angular.",
+            "ghLink": "https://github.com/andresjosehr/faq-accordion",
+            "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+            "ghLink": "https://github.com/andresjosehr/profile-card-component",
+            "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+            "Technologies": ["Angular", "SASS", "GIT"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "Feel free to message me if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message.",
+    "Contact.Btn": "Say Hello"
+
+
+}
