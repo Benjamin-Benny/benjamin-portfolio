@@ -112,6 +112,23 @@
             "ghLink": "https://github.com/andresjosehr/countries-viewer",
             "demoLink": "https://projects.andresjosehr.com/countries-viewer",
             "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
+        },
+        {
+            "Title": "OrthoFX Pro",
+            "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+            "imgs": [
+                "assets/images/orthofxpro/orthofxpro1.png",
+                "assets/images/orthofxpro/orthofxpro2.png",
+                "assets/images/orthofxpro/orthofxpro3.png",
+                "assets/images/orthofxpro/orthofxpro4.png",
+                "assets/images/orthofxpro/orthofxpro5.png",
+                "assets/images/orthofxpro/orthofxpro6.png",
+                "assets/images/orthofxpro/orthofxpro7.png",
+                "assets/images/orthofxpro/orthofxpro8.png"
+            ],
+            "ghLink": "https://github.com/andresjosehr/countries-viewer",
+            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
         }
     ],
 
