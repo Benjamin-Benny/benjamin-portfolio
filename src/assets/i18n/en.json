@@ -59,8 +59,7 @@
                 "assets/images/orthofx/orthofx6.png",
                 "assets/images/orthofx/orthofx7.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "demoLink": "https://www.orthofx.com",
             "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
         },
         {
@@ -71,8 +70,7 @@
                 "assets/images/fxontrack/fxontrack2.png",
                 "assets/images/fxontrack/fxontrack3.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "demoLink": "https://apps.apple.com/us/app/fxontrack/id1506870817",
             "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
         },
         {
@@ -86,8 +84,8 @@
                 "assets/images/tindog/tindog5.png",
                 "assets/images/tindog/tindog6.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "ghLink": "https://github.com/Benjamin-Benny/TinDog",
+            "demoLink": "https://benjamin-benny.github.io/TinDog/",
             "Technologies": ["Bootstrap", "HTML", "CSS", "GitHub"]
         },
         {
@@ -98,8 +96,7 @@
                 "assets/images/practiceapp/practiceapp2.png",
                 "assets/images/practiceapp/practiceapp3.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/hands-game",
-            "demoLink": "https://projects.andresjosehr.com/hands-game",
+            "demoLink": "https://apps.apple.com/us/app/orthofx-practice-app/id1521410723",
             "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
         },
         {
@@ -115,8 +112,7 @@
                 "assets/images/lordsfc/lordsfc7.png",
                 "assets/images/lordsfc/lordsfc8.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "demoLink": "https://lordsfckochi.com/",
             "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
         },
         {
@@ -132,8 +128,7 @@
                 "assets/images/orthofxpro/orthofxpro7.png",
                 "assets/images/orthofxpro/orthofxpro8.png"
             ],
-            "ghLink": "https://github.com/andresjosehr/countries-viewer",
-            "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+            "demoLink": "https://pro.orthofx.com",
             "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
         }
     ],
