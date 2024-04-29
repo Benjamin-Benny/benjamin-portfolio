@@ -12,7 +12,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit{
-  title = 'andresjosehr-portfolio';
+  title = 'benjamin-portfolio';
   
   constructor(
     private titleService: Title,
@@ -30,8 +30,8 @@ export class AppComponent implements OnInit{
     this.titleService.setTitle( "Benjamin Benny | Full Stack & iOS Developer" );
 
     this.metaService.addTags([
-      {name: 'keywords', content: 'Frontend, software, developer'},
-      {name: 'description', content: 'Con 4 años de experiencia desarrollando sistemas, interfaces, bots y soluciones tecnológicas  para hacer de la web un lugar mejor. En mi trabajo me gusta liderar, proponer y ejecutar ideas, escribir y refactorizar código limpio, reutilizable y escalable.'},
+      {name: 'keywords', content: 'Fullstack, Backend, Frontend, software, developer'},
+      {name: 'description', content: 'I have 3 years of experience in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in Angular and Java. I also build iOS applications applying good practices and development standards using Swift'},
     ]);
     
     
