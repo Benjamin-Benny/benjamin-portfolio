@@ -8,19 +8,31 @@
     "Header.cvName": "Benjamin_Benny_Resume.pdf",
 
     "Banner.Pretitle": "Hello! My name is",
-    "Banner.Description": "I have <span class='underline'>3 years of experience</span> in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Java</span>. I also build iOS applications applying good practices and development standards using <span class='underline'>Swift.</span>",
+    "Banner.Description": "I am a Software Engineer with <span class='underline'>4+ years of experience</span> building scalable backend and distributed systems using <span class='underline'>Go</span> and <span class='underline'>Java</span>. I specialize in designing reliable microservices, optimizing performance, and writing clean, maintainable code. I also have experience with <span class='underline'>Angular</span> and <span class='underline'>iOS (Swift)</span>, giving me a solid full-stack perspective.",
     "Banner.ActionBtn": "Get in touch",
 
     "AboutMe.Title": "About me",
     "AboutMe.Paragraphs": [
-        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing sustainable codes for dynamic websites in <span class='underline'>Angular (Typescript)</span> and  <span class='underline'>Springboot (Java)</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together. I have released several <span class='underline'>iOS</span> apps to the App Store.",
-        "My skills also include implementing system improvements, optimizing sites, and suggesting and executing ideas that add value to the project I'm working on.",
+        "I am a Senior Software Engineer with <span class='underline'>4+ years of experience</span> building and scaling backend and distributed systems. I primarily work with <span class='underline'>Go</span> and <span class='underline'>Java</span>, designing reliable microservices, event-driven systems, and high-performance APIs used in production.",
+        "I focus on clean, maintainable code, performance optimization, and system reliability. I also bring an end-to-end perspective through experience with <span class='underline'>Angular</span> and <span class='underline'>iOS (Swift)</span>.",
         "Some of the technologies that I have trained and worked on include (but are not limited to):"
     ],
 
 
     "Experience.Title": "Experience",
     "Experience.Jobs": [{
+            "Tab": "Razorpay",
+            "Title": "Software Engineer",
+            "Date": "September 2024 – November 2025",
+            "Description": [
+                "Built and scaled Go-based backend and distributed systems for Terminals & Router services in high-throughput fintech workflows.",
+                "Improved service efficiency by 6–14% using Profile-Guided Optimization (PGO), profiling, and Go performance tuning.",
+                "Led PHP → Go migrations for 6+ terminal APIs with Splitz-controlled rollouts, ensuring zero downtime and safe production releases.",
+                "Implemented Kafka-based KYC gating and Airflow pipelines on Kubernetes to automate merchant onboarding and classification, improving system reliability and query performance by ~40%.",
+                "Drove quality and observability by authoring 50+ SLIT tests, integrating Prometheus metrics, and handling on-call production debugging."
+            ]
+        },
+        {
             "Tab": "OrthoFX",
             "Title": "Software Engineer",
             "Date": "September 2020 - March 2023",
