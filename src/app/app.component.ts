@@ -30,8 +30,8 @@ export class AppComponent implements OnInit{
     this.titleService.setTitle( "Benjamin Benny | Senior Software Engineer (Backend & Distributed Systems)" );
 
     this.metaService.addTags([
-      {name: 'keywords', content: 'Fullstack, Backend, Frontend, software, developer'},
-      {name: 'description', content: 'I have 3 years of experience in developing websites and ios applications. I am dedicated to writing and refactoring clean, reusable and scalable code in Angular and Java. I also build iOS applications applying good practices and development standards using Swift'},
+      {name: 'keywords', content: 'Backend Engineer, Distributed Systems, Go, Java, Microservices, Software Engineer, Backend Developer, Performance Optimization, System Design'},
+      {name: 'description', content: 'Senior Software Engineer with 4+ years of experience building scalable backend and distributed systems using Go and Java. Specializes in microservices, performance optimization, and system reliability.'},
     ]);
     
     
