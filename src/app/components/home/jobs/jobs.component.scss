@@ -116,7 +116,7 @@
 @media (max-width: 768px){
     .jobs {
         .job-description{
-            padding: 0px;
+            padding: 0 0 0 20px; // Keep left padding for the arrow
         }
     }
     ::ng-deep .jobs-tabs{
