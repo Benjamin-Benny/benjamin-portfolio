@@ -60,6 +60,44 @@
     "FeatureProjects.Title": "My projects",
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [{
+            "Title": "OrthoFX Pro",
+            "Description": "Comprehensive aligner treatment platform connecting patients and practitioners with appointment booking, clinic search, and user management. Built with <span class='underline'>Angular</span>, <span class='underline'>TypeScript</span>, <span class='underline'>Java Springboot</span>, and <span class='underline'>PostgreSQL</span>. Achieved <span class='underline'>15% performance improvement</span> in clinical reports and integrated <span class='underline'>Stripe payments</span>.",
+            "imgs": [
+                "assets/images/orthofxpro/orthofxpro1.png",
+                "assets/images/orthofxpro/orthofxpro2.png",
+                "assets/images/orthofxpro/orthofxpro3.png",
+                "assets/images/orthofxpro/orthofxpro4.png",
+                "assets/images/orthofxpro/orthofxpro5.png",
+                "assets/images/orthofxpro/orthofxpro6.png",
+                "assets/images/orthofxpro/orthofxpro7.png",
+                "assets/images/orthofxpro/orthofxpro8.png"
+            ],
+            "demoLink": "https://pro.orthofx.com",
+            "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
+        },
+        {
+            "Title": "Practice App",
+            "Description": "iOS app for doctors at OrthoFX. Seamlessly manage patient treatment: check status, add new patients, and approve treatment plans. Includes <span class='underline'>insurance services</span> and <span class='underline'>photo-taking.</span> Built with <span class='underline'>Storyboard,</span> <span class='underline'>API integration</span> ensures smooth functionality.",
+            "imgs": [
+                "assets/images/practiceapp/practiceapp1.png",
+                "assets/images/practiceapp/practiceapp2.png",
+                "assets/images/practiceapp/practiceapp3.png"
+            ],
+            "demoLink": "https://apps.apple.com/us/app/orthofx-practice-app/id1521410723",
+            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
+        },
+        {
+            "Title": "FXOntrack",
+            "Description": "iOS app for treatment tracking at OrthoFX. Utilizes <span class='underline'>Storyboard</span> for intuitive UI. Features <span class='underline'>Bluetooth</span> for aligner connectivity, <span class='underline'>AI blur detection</span> for photo analysis, and <span class='underline'>QR scanner</span> for package tracking. Seamlessly monitor treatment progress for alignment with the plan.",
+            "imgs": [
+                "assets/images/fxontrack/fxontrack1.png",
+                "assets/images/fxontrack/fxontrack2.png",
+                "assets/images/fxontrack/fxontrack3.png"
+            ],
+            "demoLink": "https://apps.apple.com/us/app/fxontrack/id1506870817",
+            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
+        },
+        {
             "Title": "OrthoFX",
             "Description": "A comprehensive Angular-based platform with HTML/SCSS frontend, facilitating <span class='underline'>user login,</span> <span class='underline'>clinic location search,</span> and <span class='underline'>appointment booking.</span> Leveraging <span class='underline'>Restful APIs</span> for seamless integration, backed by Java Springboot and PostgreSQL. Seamlessly connecting patients and practitioners.",
             "imgs": [
@@ -75,15 +113,20 @@
             "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
         },
         {
-            "Title": "FXOntrack",
-            "Description": "iOS app for treatment tracking at OrthoFX. Utilizes <span class='underline'>Storyboard</span> for intuitive UI. Features <span class='underline'>Bluetooth</span> for aligner connectivity, <span class='underline'>AI blur detection</span> for photo analysis, and <span class='underline'>QR scanner</span> for package tracking. Seamlessly monitor treatment progress for alignment with the plan.",
+            "Title": "Lords FC",
+            "Description": "Dynamic football club website featuring match updates, news, player listings, and gallery. Built with <span class='underline'>WordPress</span>, <span class='underline'>PHP</span>, and <span class='underline'>CSS</span>. Managed domain and hosting via <span class='underline'>GoDaddy</span>.",
             "imgs": [
-                "assets/images/fxontrack/fxontrack1.png",
-                "assets/images/fxontrack/fxontrack2.png",
-                "assets/images/fxontrack/fxontrack3.png"
+                "assets/images/lordsfc/lordsfc1.png",
+                "assets/images/lordsfc/lordsfc2.png",
+                "assets/images/lordsfc/lordsfc3.png",
+                "assets/images/lordsfc/lordsfc4.png",
+                "assets/images/lordsfc/lordsfc5.png",
+                "assets/images/lordsfc/lordsfc6.png",
+                "assets/images/lordsfc/lordsfc7.png",
+                "assets/images/lordsfc/lordsfc8.png"
             ],
-            "demoLink": "https://apps.apple.com/us/app/fxontrack/id1506870817",
-            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
+            "demoLink": "https://lordsfckochi.com/",
+            "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
         },
         {
             "Title": "TinDog",
@@ -99,49 +142,6 @@
             "ghLink": "https://github.com/Benjamin-Benny/TinDog",
             "demoLink": "https://benjamin-benny.github.io/TinDog/",
             "Technologies": ["Bootstrap", "HTML", "CSS", "GitHub"]
-        },
-        {
-            "Title": "Practice App",
-            "Description": "iOS app for doctors at OrthoFX. Seamlessly manage patient treatment: check status, add new patients, and approve treatment plans. Includes <span class='underline'>insurance services</span> and <span class='underline'>photo-taking.</span> Built with <span class='underline'>Storyboard,</span> <span class='underline'>API integration</span> ensures smooth functionality.",
-            "imgs": [
-                "assets/images/practiceapp/practiceapp1.png",
-                "assets/images/practiceapp/practiceapp2.png",
-                "assets/images/practiceapp/practiceapp3.png"
-            ],
-            "demoLink": "https://apps.apple.com/us/app/orthofx-practice-app/id1521410723",
-            "Technologies": ["iOS", "Swift", "Objective-C", "Cocoa Touch", "Xcode"]
-        },
-        {
-            "Title": "Lords FC",
-            "Description": "Explore Lords FC Kochi's dynamic website, crafted with PHP, WordPress, CSS, and HTML. <span class='underline'>Managed domain and hosting</span> via <span class='underline'>GoDaddy.</span> Curated latest match updates, news, transfers, and a vibrant gallery. Seamlessly integrated player listings and contact details. Delivered end-to-end <span class='underline'>frontend excellence.</span>",
-            "imgs": [
-                "assets/images/lordsfc/lordsfc1.png",
-                "assets/images/lordsfc/lordsfc2.png",
-                "assets/images/lordsfc/lordsfc3.png",
-                "assets/images/lordsfc/lordsfc4.png",
-                "assets/images/lordsfc/lordsfc5.png",
-                "assets/images/lordsfc/lordsfc6.png",
-                "assets/images/lordsfc/lordsfc7.png",
-                "assets/images/lordsfc/lordsfc8.png"
-            ],
-            "demoLink": "https://lordsfckochi.com/",
-            "Technologies": ["Wordpress", "PHP", "SCSS", "GoDaddy", "Web Hosting"]
-        },
-        {
-            "Title": "OrthoFX Pro",
-            "Description": "Collaborated within an <span class='underline'>Agile</span> team to develop <span class='underline'>Angular</span> & <span class='underline'>TypeScript</span> frontend, <span class='underline'>Java</span> <span class='underline'>Springboot</span> backend, <span class='underline'>PostgreSQL</span> database integration for a comprehensive <span class='underline'>aligner treatment</span> website. Managed diverse user roles, streamlined <span class='underline'>payment via Stripe,</span> and drove <span class='underline'>15% performance enhancement</span> in clinical reports. A pivotal role in a <span class='underline'>dynamic startup</span>'s expansion journey.",
-            "imgs": [
-                "assets/images/orthofxpro/orthofxpro1.png",
-                "assets/images/orthofxpro/orthofxpro2.png",
-                "assets/images/orthofxpro/orthofxpro3.png",
-                "assets/images/orthofxpro/orthofxpro4.png",
-                "assets/images/orthofxpro/orthofxpro5.png",
-                "assets/images/orthofxpro/orthofxpro6.png",
-                "assets/images/orthofxpro/orthofxpro7.png",
-                "assets/images/orthofxpro/orthofxpro8.png"
-            ],
-            "demoLink": "https://pro.orthofx.com",
-            "Technologies": ["Angular", "Java", "Springboot", "PostgreSQL", "Typescript", "Agile"]
         }
     ],
 
