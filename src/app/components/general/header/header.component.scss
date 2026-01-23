@@ -112,6 +112,14 @@
             }
         }
     }
+    
+    @media (max-width: 827px) {
+        aside {
+            justify-content: flex-start;
+            padding-top: 100px;
+        }
+    }
+    
     .cv-btn{
       padding: 7px 15px !important;
     }
